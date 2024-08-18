@@ -1,0 +1,52 @@
+Metro
+District alleges a rental 'cartel'
+
+Justin Wm. Moyer 
+703 words
+2 November 2023
+The Washington Post
+WP
+FINAL
+B01
+English
+Copyright 2023, The Washington Post Co. All Rights Reserved 
+
+D.C. Attorney General Brian L. Schwalb said Wednesday that the city has sued a software company and 14 of the District's "largest landlords," alleging they colluded to illegally raise rents for tens of thousands of D.C. residents with a price-setting algorithm.
+
+RealPage, a company that provides software to property managers, came under scrutiny last year after a ProPublica investigation found its software may have wrongly inflated rents, and it has faced price-fixing lawsuits in numerous jurisdictions amid a Justice Department investigation.
+
+The suit, filed in D.C. Superior Court, says landlords agreed to use RealPage's centralized system, which suggests rental prices based on supply and demand, rather than compete against one another. In addition, the suit says, landlords agreed to provide "competitively sensitive data" to RealPage for use in its software, a violation of D.C. antitrust law.
+
+More than 50,000 units in the District were affected, according the suit, bringing "millions in wrongfully inflated rents in the last four years alone."
+
+In a statement, RealPage spokesperson Jennifer Bowcock criticized the lawsuit.
+
+"In seeking to draw a causal connection between revenue management software like ours and increases in market-wide rents, this copycat suit repeats the inaccuracies of predecessor cases," the statement said. "The complaint and others like it are wrong on both the facts and the law and we will vigorously defend against it."
+
+The lawsuit seeks to stop the allegedly illegal price hikes and collect financial penalties from the companies to compensate the District and affected renters, among other relief.
+
+"Defendants' anticompetitive agreement has exacerbated D.C.'s affordable housing crisis, forcing numerous District renters to overpay, month after month, for what is likely the single largest expense in their lives," the suit says. "Every dollar of increased rent that the cartel illegally squeezes from District renters contributes to widening wealth gaps."
+
+In a statement, Schwalb (D) said the "coordinated and anticompetitive conduct amounted to a District-wide housing cartel."
+
+"At a time when affordable housing in DC is increasingly scarce, our office will continue to use the law to fight for fair market conditions and ensure that District residents and law-abiding businesses are protected," the statement said.
+
+RealPage's website says it "helps owners, operators, property managers and investors unlock value faster."
+
+"Discover how we're driving operational excellence and optimizing the prospect and resident experience with market-leading technology that maximizes yield," the site says.
+
+The suit says that RealPage's software has been adopted by a "substantial portion" of the multifamily housing market nationwide, including around 60 percent of units in large multifamily buildings in the District.
+
+The suit includes a map of properties that shows alleged "increased concentration" of the software's use in particular neighborhoods, including Columbia Heights, NoMa and Navy Yard, and buildings along Connecticut Avenue in upper Northwest.
+
+"As a practical matter, this leaves many District residents with no choice but to pay RealPage's inflated rents," the suit says.
+
+Landlords also profited from the scheme, which sometimes incentivized leaving some units vacant to maximize return, the suit alleges.
+
+"The net effect of driving revenue and pushing people out was $10 million in income," one executive quoted in the suit said. "I think that shows keeping the heads in the beds above all else is not always the best strategy."
+
+The rents RealPage comes up with "are not recommendations," the suit alleges. "Participating Landlords agree to and do impose the RealPage-generated rents nearly all of the time."
+
+In a statement, Elena Bowers, supervising attorney in the housing unit at Legal Aid DC, said the District for years has felt the impact of the "harmful practices" the lawsuit alleges. Those affected are disproportionately Black and Brown residents, the statement said.
+
+"We hope AG Schwalb's lawsuit will hold these landlords accountable and force them to change their deceitful practices going forward," the statement said. "While this lawsuit is an important step, Legal Aid urges the District to prioritize the creation of more affordable housing and to expand supports for residents struggling to afford to stay in their homes, especially as we approach the winter months."

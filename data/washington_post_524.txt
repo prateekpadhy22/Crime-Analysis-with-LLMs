@@ -1,0 +1,58 @@
+Metro
+Program targets risky drivers
+
+Heidi Pérez-Moreno 
+987 words
+24 June 2023
+The Washington Post
+WP
+FINAL
+B01
+English
+Copyright 2023, The Washington Post Co. All Rights Reserved 
+
+The District government plans to launch a personalized messaging program next month that will send mailers and text messages to Washington-area motorists with a history of traffic violations and crashes.
+
+The initiative, led by the D.C. Department of Transportation and The Lab @ D.C., will message drivers whom the city deems more likely to be involved in a crash, warning them to follow speed limits and pay attention to traffic signs.
+
+The program is the city's latest effort to tackle a rise in deadly traffic crashes that has long perplexed D.C. leaders. It comes after previous attempts to increase road safety - such as heftier fines for traffic violators, more restrictions on turns and lower speed limits - did little to slow the rate of crashes and deaths on city streets.
+
+Under the new program, the city developed a list of 100,000 high-risk drivers, which District officials say will be divided into smaller groups - some receiving both a mailer and text, some being contacted using only one method, and others not being contacted at all. After the first round of messaging, expected to start in as soon as two weeks, drivers can opt out of future messages.
+
+Sam Quinney, director at The Lab @ D.C., which is part of the D.C. government, said project coordinators hope the messages will raise awareness among risky drivers about previous traffic violations while helping them to make safer decisions over time.
+
+"The goal is to create awareness, regardless of whether or not anybody has signed off for specific alerts," he said.
+
+The program is part of Vision Zero D.C., an initiative that pledged eight years ago to eliminate city traffic deaths by 2024. Officials have since said that original goal was ambitious and expect to release a revised plan by next year.
+
+Several cities nationwide have Vision Zero programs, but D.C. officials say they aren't aware of others that are sending targeted messaging to high-risk drivers.
+
+"This is the first effort we know of that combines the use of predictive modeling to identify drivers and then behaviorally informed messages to prompt them to drive more safely," said Bianca Lugo Lewis, communications director of the Office of the City Administrator.
+
+Data will be collected over 12 months, during which time researchers will assess whether those who received the messages reduced their risky-driving behaviors. DDOT Director Everett Lott said the pilot program is the city's latest attempt to encourage drivers to monitor their speed and slow down.
+
+"Targeting messages to higher-risk drivers is an innovative approach to help us improve safety for all our roadway users, especially for our most vulnerable users - children and pedestrians," Lott said in a statement.
+
+The city has recorded 24 traffic-related fatalities this year, up from 16 at this time last year, according to D.C. police data. Although fatal crashes have decreased since 2021 - that year saw 40 deaths, the most in the city since 2007 - there has been a general rise in deadly crashes since Vision Zero's launch.
+
+D.C. police data is one of several sources the city is using for citation and traffic violation information.
+
+Quinney said the research team also pulled data from national sources that report traffic enforcement citations, then coupled that information with local data to identify drivers through license plates and crashes. Data from automated traffic cameras in D.C. also was used.
+
+Those efforts resulted in the pool of about 100,000 D.C.-area drivers - including those with vehicles registered in nearby states with traffic infractions in the city - who are deemed to be at high risk. For the program launch, organizers targeted drivers based on whether their registered vehicle had two or more citations in the past 18 months.
+
+The mailers and text messages are not citations. Messaging will include copies of previous citations and will list the financial, environmental and personal benefits of following traffic laws and maintaining a clean traffic record. They also will advise drivers to stop at red lights.
+
+"Someone in your household is driving dangerously," the text of one mailer says. "Your vehicle has a history of speeding and/or running red lights and this is placing the drivers and passengers of your vehicle at a high risk of getting into a crash."
+
+The program mirrors similar projects by The Lab @ D.C. and other city agencies in building predictive models for targeted groups. Previous work has identified where D.C. residents are most likely to encounter rodents or, working with the Department of Human Services, reminded families to reapply for rent subsidy benefits.
+
+Researchers found that mailers significantly improved the rate at which families reapplied for benefits.
+
+"The core of it is being able to design it with residents in mind and use our data as fast as possible to understand how well things are working in the District," Quinney said.
+
+The messaging effort was years in the making, but plans were halted during the pandemic. It comes months after the Office of the D.C. Auditor released a report citing how the Vision Zero program has been hampered by a lack of funding and oversight, in response to criticism from residents and traffic safety advocates who argued that the program wasn't getting enough attention.
+
+City officials couldn't provide the costs associated with the pilot program but said it is part of Vision Zero's overall budget, adding that the messaging program's expenses are low compared with other traffic-safety initiatives like changing roads. Quinney said the results will be used to determine how the city can best improve street safety.
+
+"It allows us to have a greater impact at a lesser cost," he said. "So, if they have an impact and reduce crashes, that becomes another tool in our tool kit."

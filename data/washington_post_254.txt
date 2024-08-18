@@ -1,0 +1,58 @@
+Metro
+Russian cyber suspect charged
+
+Spencer S. Hsu                Aaron Schaffer                Tim Starks 
+1,051 words
+17 May 2023
+The Washington Post
+WP
+FINAL
+B01
+English
+Copyright 2023, The Washington Post Co. All Rights Reserved 
+
+Federal authorities announced criminal charges, economic sanctions and a $10 million reward Tuesday for information leading to the arrest of a Russian accused of participating in a global ransomware campaign called Babuk, whose victims allegedly included D.C. police, an airline and other American industries.
+
+The Treasury Department imposed an economic ban on financial dealings with Mikhail Matveev, calling him a central figure in launching cyberattacks against U.S. law enforcement, businesses and critical infrastructure in 2021.
+
+"The United States will not tolerate ransomware attacks against our people and our institutions," said Brian E. Nelson, undersecretary of the treasury for terrorism and financial intelligence. "Ransomware actors like Matveev will be held accountable for their crimes, and we will continue to use all available authorities and tools to defend against cyberthreats."
+
+According to analysis conducted by Treasury's Financial Crimes Enforcement Network, 75 percent of ransomware-related incidents reported between July and December 2021 were linked to Russia, its proxies or people acting on its behalf. Matveev is a "key actor" in that system, the department said, helping develop and deploy Russian-linked ransomware variants such as Hive, LockBit and Babuk, with Hive alone targeting more than 1,500 victims in more than 80 countries. The attack targeted hospitals, school districts, financial firms and other critical infrastructure, the department said.
+
+Matveev has also given interviews, disclosed source code to online criminals and said his activities are tolerated by local authorities provided he remains loyal to Russia, the department said.
+
+In Washington, a newly unsealed indictment alleged that Matveev, 30, of Kaliningrad, and using the online monikers Wazawaka, m1x, Broriscelcin and Uhodiransomwar, committed intentional damage to a protected computer and threats relating to a protected computer. Each charge is punishable by up to 10 years in prison. Matveev was charged with similar crimes in a federal indictment in New Jersey.
+
+"Data theft and extortion attempts by ransomware groups are corrosive, cynical attacks on key institutions and the good people behind them as they go about their business and serve the public," Matthew Graves, U.S. attorney for D.C., said in a statement with James Dennehy, FBI Newark special agent in charge. "Thanks to exceptional work by our partners here, we identified and charged this culprit."
+
+According to the indictment, Matveev and Babuk conspirators deployed Babuk ransomware against D.C. police on April 26, 2021, infecting department computer systems, stealing data and extorting the police agency, threatening disclosure of sensitive information unless payment was made, causing at least $5,000 in losses.
+
+Babuk emerged in early 2021 and made contact with D.C. police that April, claiming it had files containing information about gangs and the identities of confidential informants.
+
+After negotiations with District officials broke down, hackers apparently posted stolen documents, including confidential files that could reveal names of suspected gang members and witnesses, and more than three dozen daily intelligence briefings for the chief of police, including raw intelligence on threats after the Jan. 6, 2021, attack on the U.S. Capitol. The group earlier made public internal files dealing with job candidates.
+
+Files chosen included a job applicant's résumé, a map of the locations of sex crimes, information on the use of facial recognition software, street interview tactics and personal information of more than two dozen officers collected when they applied to the force.
+
+Brian Krebs, author of the Krebs on Security blog, identified Wazawaka in January 2022 as a major access broker in the Russian-speaking cybercrime scene who initially sold distributed denial-of-service attacks that could cripple websites for $80 a day before becoming a middleman selling access to organizations and to databases stolen from hacked companies. He claimed that one ransomware affiliate program paid him roughly $500,000 in commissions for the six months leading up to September 2020.
+
+The Babuk source code was leaked in September 2021, leading other threat actors to adopt or share its code in attacks in the United States and elsewhere across industries, analysts reported this year.
+
+Because the United States and Russia do not have an extradition treaty, the criminal charges may not end up putting Matveev behind bars but could serve a "name and shame" purpose and deter others, experts said.
+
+"Russia is not going to hand him over," said ransomware expert Allan Liska of the cyber firm Recorded Future. "He's likely not going to face justice, unless he's dumb enough to vacation in Poland."
+
+But the impunity enjoyed by ransomware criminals - who rely on multiple aliases and decentralized networks to obscure their role in specific attacks - has led them to become more brazen, Liska said.
+
+"This generation of ransomware actors that have been around for a while feel like they are untouchable," he said. "So they do things like engage with researchers, do interviews, open Twitter accounts - because they don't feel like it matters."
+
+Law enforcement agencies have stepped up international collaboration to identify those behind an attack, leading the perpetrators to spend more time and effort to hide their activities, said John Carlin, a former top Justice Department national security official in the Obama and Biden administrations.
+
+The biggest challenge for imprisoning a ransomware criminal remains the havens that nations like Russia, China, North Korea and Iran may offer them, said Carlin, now co-head of the cybersecurity and data protection practice at Paul Weiss and a partner in its litigation department.
+
+Still, Matveev has proven unpopular with some of his peers in the ransomware world, once describing in an interview with Liska's firm how he took control of the attack on D.C. police from an affiliate, who then began to threaten him.
+
+"Russian underground forums are all in a tizzy," Liska said, worried about what the charges against Matveev could mean for others.
+
+That may be the goal, said Adam Hickey, who recently stepped down as deputy assistant attorney general for the Justice Department's National Security Division.
+
+"You charge someone with the hope that you will end up arresting them," said Hickey, now a partner at Mayer Brown. But another goal can be to "paint a target essentially on the back of individuals like this to encourage information that could be used to undermine their operations."

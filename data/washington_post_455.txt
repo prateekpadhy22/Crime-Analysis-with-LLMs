@@ -1,0 +1,38 @@
+Metro
+Breach exposes D.C. data on voters
+
+Michael Brice-Saddler                Aaron Schaffer 
+672 words
+8 October 2023
+The Washington Post
+WP
+FINAL
+C01
+English
+Copyright 2023, The Washington Post Co. All Rights Reserved 
+
+District and federal agencies are investigating after a hacking group claimed to have accessed 600,000 lines of U.S. voting data maintained by the D.C. Board of Elections, including records from city voters, the agency said in a statement Friday.
+
+The elections board said it became aware Thursday that a hacking group had claimed responsibility for the breach. The agency said it had confirmed that voter records were accessed through a breach of its website hosting provider, DataNet Systems, but said no internal databases or servers were directly affected.
+
+The FBI, Multi-State Information Sharing and Analysis Center, Department of Homeland Security and D.C.'s Office of the Chief Technology Officer are among the agencies investigating the breach. The D.C. Board of Elections took down its main website after learning it was the source of the breach, and replaced it with a maintenance page. The agency also said it had conducted vulnerability scans on its database, server and other IT networks.
+
+Sarah Graham, director of communications for the elections board, said the hacking group had not requested a ransom from the agency related to the data breach - a common tactic from hacking groups that illegally obtain sensitive information and then threaten to publish it online. Graham also said there was no estimate of how long the agency's website will be down.
+
+Some voter registration data maintained by the elections board is public information, like voter names, addresses, party affiliation and whether an individual voted. But District regulations require other voter data - birthdays, contact information, where they registered, and full or partial Social Security numbers - to remain confidential. The elections board does not maintain information on voters' specific choices.
+
+DataNet, whose website says its clients have included several notable city agencies like the D.C. Council and the police, fire and general services departments, among others, did not immediately return a request for comment.
+
+The ransomware group that appears to have claimed responsibility for the breach calls itself RansomedVC. It previously claimed to be behind a hack of Sony Entertainment, though it's not clear if the group actually hacked the company (Sony last week said it had been hacked, but another hacking group previously said it breached the company).
+
+RansomedVC offered the data for sale on its dark web website: "We have successfully breached the District of Columbia Board Of Elections and have gotten more than 600k lines of USA Voters," the group wrote.
+
+A snippet of data reviewed by The Washington Post showed what the group claimed was one D.C. voter's full name, address, contact information and driver's license number, and part of their Social Security number.
+
+The D.C. data was also apparently being offered for sale on a hacking forum. In posts dated Oct. 3 and Oct. 5, someone on the forum offered the data for sale and wrote that they had also stolen more than 3,500 address confirmation documents. As proof, they posted one address confirmation document and personal information that appeared to belong to three District voters. Information for one of the voters matched the snippet of data posted on RansomedVC's website.
+
+Graham could not confirm the authenticity of the postings, noting that it would be premature as the investigation is ongoing.
+
+Hacking groups have targeted the District in various ways in recent years: In 2022, a ransomware group appeared to publish a tranche of data and documents from Events DC on the dark web; the year before, hackers posted hundreds of pages of purported internal D.C. police department documents after infiltrating the department's computer network. The hacking group involved in that dump, called Babuk, threatened to release more documents if its demands for money were not met.
+
+And earlier this year, members of the House and Senate were notified of a breach involving D.C.'s health insurance exchange, DC Health Link, that affected more than 56,000 customers.

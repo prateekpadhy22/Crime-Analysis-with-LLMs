@@ -1,0 +1,62 @@
+Metro
+Jan. 6 cases rely on defining 'corruptly'
+
+Tom Jackman                Rachel Weiner 
+1,239 words
+14 May 2023
+The Washington Post
+WP
+FINAL
+C01
+English
+Copyright 2023, The Washington Post Co. All Rights Reserved 
+
+When analyzing the prosecutions of Jan. 6, 2021, rioters at the U.S. Capitol, some defense lawyers have zeroed in on a key word in the law used to charge many defendants: "corruptly." The law requires proof that the defendants acted corruptly in obstructing the electoral vote certification.
+
+But the exact definition of what it means to be corrupt was at question Thursday as judges for the U.S. Court of Appeals for the D.C. Circuit weighed whether a law used to secure felony convictions against more than 100 participants in the Capitol attack is being appropriately applied. Another 200 defendants still face the same charge of obstruction of an official proceeding, which requires the showing of corrupt intent.
+
+Defense attorneys argued that simply acting to overrun the Capitol wasn't inherently corrupt and the charges against their clients should be dropped.
+
+Defense lawyer Timothy Cone argued that prosecutors had to show that a defendant was "dishonestly corrupt" - acting with a hope of financial gain or other benefit - to break the law. Cone has argued that his client, was not being dishonest when he stormed the Capitol; he wasn't seeking to benefit himself and acted after openly believing he was disenfranchised by the 2020 election results.
+
+Two of the three judges who will rule on the issue seemed unconvinced.
+
+"You can be honestly corrupt, completely forthcoming about it," she said, "and still be corrupt," Judge Florence Y. Pan sharply argued.
+
+"I disagree, your honor," Cone responded. "I believe dishonesty is a distinguishing aspect of corruption." He said if a lawyer honestly advises a client not to cooperate with an investigation, "I'm not sure that counts as corrupt."
+
+Pan responded, "That seems untenable to me, counsel."
+
+The charge of obstructing an official proceeding was debated for the second time by the court. Thomas Robertson, a former small-town Virginia police officer, argued in his appeal that jurors at his trial last year were not given the right definition of the word "corruptly" when they found him guilty under the law, a felony that carries a penalty of up to 20 years in prison.
+
+Last month, a panel of appellate judges upheld the use of the obstruction statute against three other men accused of acting violently on Jan. 6. That decision was written by Pan, who in that case sat with two Trump appointees. Pan was one of two Democratic nominees on Thursday's three-judge panel, along with Judge Cornelia Pillard. They were joined by Judge Karen L. Henderson, who was appointed by President George H.W. Bush.
+
+The crime of obstruction of an official proceeding punishes anyone who "corruptly … obstructs, influences, or impedes any official proceeding." Trump supporters who merely walked in and out of the building have been allowed to plead guilty to misdemeanor trespassing or disorderly conduct crimes. But rioters who made it to sensitive areas of the Capitol or engaged in other conduct showing an effort to interfere with the vote count have faced the felony obstruction charge.
+
+Robertson, accompanied by a younger colleague who ultimately testified against him, wore a gas mask into the Capitol and brandished a large stick at police officers guarding the building. He later said "the pictures of [lawmakers] huddled in the floor crying is the most American thing I have ever seen." He also destroyed evidence and stockpiled weapons after the riot.
+
+Defense attorneys have argued that the government is misusing an Enron-inspired law that was written to punish evidence tampering, not to prosecute political mobs.
+
+After he was convicted last year of obstructing an official proceeding and four other felonies, Robertson was sentenced to more than seven years in prison. The judge in Robertson's case, Christopher R. Cooper, as have judges in many other Jan. 6 cases, told jurors that "to act corruptly" meant unlawfully and with "consciousness of wrongdoing."
+
+In the case that inspired the obstruction of an official proceeding law - the shredding of documents by Enron accountants Arthur Andersen - the U.S. Supreme Court said "corruptly" must involve "consciousness of wrongdoing." But Cone argued that the Supreme Court was not fully defining the scope of the law, noting that the decision also refers to "dishonesty."
+
+"Looking back on January 6, there may well be persons who acted 'corruptly' - persons like President Donald Trump himself and his closest advisers," Cone wrote in a court filing. "But Robertson did not act 'corruptly' on January 6. He openly expressed his belief that he had been disenfranchised by fraud … Robertson was not dishonest."
+
+The panel that approved the obstruction charge last month divided on the definition of "corruptly." Judge Justin Walker, while joining Pan's opinion, agreed with Robertson that the obstruction charge was too broad unless it involves some personal benefit. Pan said that was one of several plausible definitions but that picking one was unnecessary, and she and Pillard returned to that argument Thursday.
+
+Pan said in court Thursday, "They can't have to be dishonest. Because if you're honestly corrupt, that's still obstruction."
+
+The Justice Department argued that Robertson is taking a standard "used in the context of certain fraud and tax offenses" that is not required here.
+
+"By and large, many cases actually say that just intent to obstruct is enough to get you to 'corruptly,'" Justice Department attorney James Pearce argued. "What 'corruptly' does is recognize the many ways in which people can" commit obstruction.
+
+He added: "They can go about doing it in the stealthy or sneaky ways … but going and barging into Congress, just like somebody came barging in here to stop this proceeding, that distorts, obstructs, impedes the official proceeding and would qualify as corrupt."
+
+Pan said Thursday that court precedent dating to the prosecution of former National Security Council staff member Oliver North established that if a defendant uses either unlawful means or has an unlawful purpose, they have the requisite criminal intent. North admitted lying to Congress and was convicted in 1989 of aiding and abetting the obstruction of a congressional proceeding, though the conviction was later vacated due to the impact of the televised hearings in the case.
+
+Cone said that Robertson's goal of reversing the election result for Trump was too remote to be a benefit for Robertson. Pillard said that typical lobbying or influencing of Congress usually involves a benefit as a result. "All of that meets your ostensibly limiting definition of 'benefit for self or others,'" Pillard said. "If the major conundrum in interpreting 'corruptly' is to make it meaningfully limiting where obstruction applies to Congress, it seems like your definition completely failed in that regard, because the legitimate lobbying or demonstrating or the like usually yields a benefit."
+
+The split means this court is also being asked to decide whether Walker is right that his definition, as the narrowest supported by a majority, is now the law of the D.C. Circuit. The government disagreed, saying that rule requiring an intent to procure an unlawful benefit is not used in the D.C. circuit and that it wouldn't apply here, where Pan has not endorsed Walker's reasoning.
+
+Judge Timothy J. Kelly, overseeing a trial that ended last week with five Proud Boys leaders convicted of obstruction and other felonies, rejected Walker's definition in favor of the broader "consciousness of wrongdoing."

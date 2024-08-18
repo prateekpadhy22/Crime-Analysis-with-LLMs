@@ -1,0 +1,60 @@
+Metro
+D.C. is missing Black jurors
+
+Spencer S. Hsu 
+1,598 words
+5 March 2023
+The Washington Post
+WP
+FINAL
+C01
+English
+Copyright 2023, The Washington Post Co. All Rights Reserved 
+
+It is a mystery hiding in plain sight: Why do juries in federal court in Washington, D.C., have fewer Black people than juries seated in the city's local court, and why are juries in both courts less diverse than the city's population?
+
+Some lawyers and judges who practice in both D.C. Superior Court and U.S. District Court for D.C. have sensed the disparity over the years, but may have chalked up differences to the luck of the draw.
+
+Now, attorneys for a District man accused of spray-painting "Yall not tired yet?" at the Lincoln Memorial during a May 2020 protest over George Floyd's murder by police have asked a judge to end what they call the systemic underrepresentation of Black people in the potential jury pool for federal trials.
+
+Joined by the NAACP Legal Defense and Educational Fund, attorneys for Micah Avery, 28, argue that the nation's capital is failing to provide District residents with their constitutional right to trial by a jury made up of a fair cross-section of their peers. The challenge comes as the federal court in Washington is handling a historically high number of trials from a surge of prosecutions in the Jan. 6, 2021, attack on the Capitol and from a backlog created by a pandemic hiatus.
+
+In court filings, Avery's defense, led by attorneys from the Federal Defender's Office of Washington and the Paul, Weiss, Rifkind, Wharton & Garrison law firm, says that data from the two courts show that from November 2021 through May 2022, about 35 percent of potential jurors who appeared in D.C. Superior Court were Black, compared with about 30 percent of the federal trial court's qualified jury pool.
+
+By comparison, Black adults accounted for 39 percent of the District's adult population according to 2020 U.S. census data, or 46 percent when nonjury-eligible residents are removed, such as non-U.S. citizens, they argued.
+
+"We are missing nearly a third of Black or African American persons expected from the jury-eligible population," defense consultant Jeffrey Martin said in a court filing, comparing the share of Black federal jurors found qualified to report to court with the actual share of Black jury-eligible D.C. residents.
+
+Avery's defense asked U.S. District Judge Amy Berman Jackson to postpone trial in his nearly three-year-old felony destruction of federal property case until the problem can be mended. In part they blame the federal court's "master jury wheel" of about 600,000 potential jurors for underrepresenting Black people. The pool is drawn from government databases of people who registered to vote, held a department of motor vehicles identification card or filed a D.C. income tax form, Assistant Federal Defender Eugene Ohm and others argue in court filings.
+
+By comparison, the D.C. Superior Court includes not only people who had tax forms filed with the District, but who received public assistance such as federal disability or welfare benefits. The federal court's summons procedures make the underrepresentation worse by not following procedures to pursue people who do not initially respond to summons, the NAACP LDF argued.
+
+"This underrepresentation of Black prospective jurors in qualified jury pools violates Mr. Avery's Sixth Amendment right to be tried by a jury comprised of a fair cross-section of his community, harms the quality of this Court's juries, and jeopardizes its legitimacy," wrote the LDF team led by senior counsel Charles McLaurin. "Non-diverse juries make more mistakes, deliberate less, and convict Black people more. Having representative juries is critical in the District of Columbia, where Black people are disproportionately policed and accused."
+
+Prosecutors with the U.S. attorney's office said Avery has failed to show that the issue rises to a constitutional violation, or results from "systematic exclusion." Instead, they attribute the problem almost entirely to the lower response rate of Black residents to jury summons, not to any design flaw or systemic bias.
+
+Black people are fairly if not actually slightly overrepresented in the federal court's master wheel, according to a government consultant. The expert said the court's compilation every four years of 600,000 people who may be sent jury summons does not list potential jurors' race, but includes addresses that can be mapped by Census tract. The latter do include racial demographic data that can be used to estimate the overall pool's racial makeup.
+
+"There is no valid statistical evidence to conclude African Americans are more or less likely to have either registered to vote, or have a driver's license, or photo identification or file a D.C. tax return," Assistant U.S. Attorney Meredith Mayer-Dempsey wrote. "There is no constitutional or statutory requirement that any court system send follow-up summonses," although the U.S. District Court is trying to improve its summons process, she added.
+
+Even with the lower response rate, prosecution consultant Bernard Siskin argued that in two of the past four years, 2019 through 2022, the share of qualified Black jurors actually called for jury service every two weeks came within 10 percentage points of the Black share of D.C.'s adult population - still lower, but within a rough benchmark the government says federal courts sometimes use in such challenges.
+
+Nina Chernoff, a City University of New York law professor who studies jury pool challenges, said problems uncovered in the District mirror a 2018 study's findings that jury pool disparities nationwide are significant, persistent and poorly understood because of poor data collection. The study found that roughly 40 percent of Black and 30 percent of Hispanic expected jurors are missing from federal jury pools, based on the jury-eligible population.
+
+Chernoff wondered whether jury administrators in D.C. have enough information about the racial makeup of people who are sent summons to be able to assess Black nonresponse rates, or to know if they are producing a representative jury pool. Even "non-nefarious" practices can systemically lower Black representation, sometimes for socioeconomic reasons, such as failing to update addresses to reach renters or frequent movers as well as homeowners, she said. And fixes as cheap and simple as sending post card reminders can pay for themselves by increasing efficiency.
+
+"There are so many decisions jury administrators must make between when a master wheel is created and people show up at the courthouse. Concluding that disparities are due entirely to decisions by potential jurors is a leap of faith," Chernoff said. Chernoff noted the National Center for State Courts has identified nonresponse rates as a factor that can be effectively controlled by courts.
+
+The constitution obliges jury administrators to show that every step of jury selection is fair, and if causes for disparity do not serve the public's interest, policies should change, she said. "These aren't unsolvable problems," Chernoff said, "The question is, why would a court insist on maintaining a policy that year after year produces unrepresentative jury pools?"
+
+The Avery challenge comes one year after Chief U.S. District Judge Beryl A. Howell denied another defendant's request to dismiss his conviction on charges including child sexual assault on similar grounds. Howell said she took the apparent current disparity very seriously and praised attorney challenges for helping lead to improvements, adding that the court "will and should not be satisfied until all reasonably practicable measures are being taken."
+
+Still, Howell wrote in a February 2022 opinion, "The existence of room for improvement, however, does not a Sixth Amendment or [statutory] violation make." Howell's decision relied on one year of data and did not include the comparison to D.C. Superior Court.
+
+Howell did write that the earlier challenge revealed "regrettable" flaws in the court's jury selection process, which was being modified to improve administration and increase transparency. For example, it was learned during the litigation that for nearly a year, the court mistakenly double-counted about 300,000 people who filed income tax forms in its master wheel, making it more likely they would be tapped for jury service. The error lowered Black representation by less than a percentage point, however.
+
+The court has ordered that the master wheel be updated every two years instead of four, to reach more transient residents, and plans shortly to begin sending out second summons to improve the potential juror return rate. It has also changed the vendor used to compile and remove duplicated names in jury wheels.
+
+The incident recalled how routine administrative errors can have large effects, even when they are fixed quickly. In 1992, Connecticut's federal court found that Hartford and New Britain - home to two-thirds of the state's Black and Hispanic populations - were improperly omitted entirely from the qualified jury wheel because a computer read the letter "d" in "Hartford" as meaning all potential jurors there were deceased and because names from New Britain's voter rolls were never inputted. In 2002, media reported that for a year, Kent County, Ohio, mistakenly drew from only about one-fourth of its potential jury pool because it was sorted by order of Zip code meant that mostly White geographic areas were overrepresented.
+
+In earlier hearings, Avery trial judge Jackson said that while no one has "a crystal ball," juror representation had started to improve since the depths of the pandemic, and she expressed a commitment to the principle, saying, "This jury has to be fairly representative of today's population."
